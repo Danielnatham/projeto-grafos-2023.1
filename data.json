@@ -1,1002 +1,4002 @@
 [
     {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
+        "id": 1545920,
+        "location": "AQSU-66C0",
         "parameter": "temperature",
-        "value": 17.562901496887207,
+        "value": 62.9375,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 53.2961,
+        "longitude": -60.3383
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 926634,
+        "location": "Backyard",
         "parameter": "temperature",
-        "value": 15.9786905447642,
+        "value": 65.03703703703704,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 47.638542,
+        "longitude": -121.98998
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 223048,
+        "location": "Ligonier #6",
         "parameter": "temperature",
-        "value": 65.28571428571429,
+        "value": 66.62068965517241,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
+        "latitude": 40.212124,
+        "longitude": -79.19927
     },
     {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
+        "id": 221136,
+        "location": "Phinney Ridge",
         "parameter": "temperature",
-        "value": 70.3,
+        "value": 59.526315789473685,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
+        "latitude": 47.67621,
+        "longitude": -122.353004
     },
     {
-        "id": 67057,
-        "location": "INOEAUST1",
+        "id": 225863,
+        "location": "Ligonier #2",
         "parameter": "temperature",
-        "value": 71.11764705882354,
+        "value": 67.84210526315789,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
+        "latitude": 40.26326,
+        "longitude": -79.288956
     },
     {
-        "id": 67102,
-        "location": "ITIROLAX2",
+        "id": 357800,
+        "location": "Rock River School",
         "parameter": "temperature",
-        "value": 59.111111111111114,
+        "value": 78.27586206896552,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
+        "latitude": 41.74312,
+        "longitude": -105.96985
     },
     {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 67.65517241379311,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 18.81819947560628,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
-    },
-    {
-        "id": 1416987,
-        "location": "Schottergrube",
-        "parameter": "temperature",
-        "value": 15.38709823290507,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
-    },
-    {
-        "id": 65677,
-        "location": "Vienna-1210",
-        "parameter": "temperature",
-        "value": 67.5,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 71.71428571428571,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 72.0,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 60.0,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 67.41379310344827,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 18.854166666666668,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
-    },
-    {
-        "id": 65677,
-        "location": "Vienna-1210",
-        "parameter": "temperature",
-        "value": 69.60714285714286,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 72.0,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 72.81818181818181,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 60.526315789473685,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 69.56666666666666,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1416987,
-        "location": "Schottergrube",
-        "parameter": "temperature",
-        "value": 16.085342248280842,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
-    },
-    {
-        "id": 65677,
-        "location": "Vienna-1210",
-        "parameter": "temperature",
-        "value": 70.96551724137932,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 18.577991167704266,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
-    },
-    {
-        "id": 1416987,
-        "location": "Schottergrube",
-        "parameter": "temperature",
-        "value": 16.876056989034016,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 73.0,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 74.41666666666667,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 61.2,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 69.93333333333334,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1416987,
-        "location": "Schottergrube",
-        "parameter": "temperature",
-        "value": 18.103675365447998,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 19.608898798624676,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
-    },
-    {
-        "id": 65677,
-        "location": "Vienna-1210",
-        "parameter": "temperature",
-        "value": 72.8076923076923,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 73.75,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 75.6,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 62.55555555555556,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 70.03333333333333,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 20.845133940378826,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
-    },
-    {
-        "id": 1416987,
-        "location": "Schottergrube",
-        "parameter": "temperature",
-        "value": 19.120357195536297,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
-    },
-    {
-        "id": 65677,
-        "location": "Vienna-1210",
-        "parameter": "temperature",
-        "value": 74.34615384615384,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 74.36363636363636,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 76.75,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 63.464285714285715,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
+        "id": 232584,
+        "location": "200 Eugene Street",
         "parameter": "temperature",
         "value": 71.0,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
+        "latitude": 45.706398,
+        "longitude": -121.51236
     },
     {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
+        "id": 64807,
+        "location": "Silverado",
         "parameter": "temperature",
-        "value": 21.95308033625285,
+        "value": 90.63636363636364,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.324238,
+        "longitude": -122.27315
+    },
+    {
+        "id": 64812,
+        "location": "Stonebrae",
+        "parameter": "temperature",
+        "value": 80.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.65624,
+        "longitude": -122.01292
+    },
+    {
+        "id": 221061,
+        "location": "Richmond Beach",
+        "parameter": "temperature",
+        "value": 96.73333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.772842,
+        "longitude": -122.39323
+    },
+    {
+        "id": 68006,
+        "location": "Ocean Hills Golf Course Hole 10",
+        "parameter": "temperature",
+        "value": 83.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 33.159927,
+        "longitude": -117.26419
+    },
+    {
+        "id": 67977,
+        "location": "Skyline Blvd.",
+        "parameter": "temperature",
+        "value": 94.71428571428571,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.85373,
+        "longitude": -122.215096
+    },
+    {
+        "id": 355940,
+        "location": "LTCC - Soccer Field",
+        "parameter": "temperature",
+        "value": 74.95,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.925327,
+        "longitude": -119.969795
+    },
+    {
+        "id": 234170,
+        "location": "Nez Perce National Historical Park",
+        "parameter": "temperature",
+        "value": 92.63157894736842,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 46.447422,
+        "longitude": -116.82278
+    },
+    {
+        "id": 64001,
+        "location": "908 Villa 2",
+        "parameter": "temperature",
+        "value": 91.78571428571429,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.819042,
+        "longitude": -119.71599
+    },
+    {
+        "id": 1378099,
+        "location": "CAP - Harbour West, KZN, ZA.",
+        "parameter": "temperature",
+        "value": 19.510416666666668,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": -28.78704806067507,
+        "longitude": 32.03716133558179
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 352796,
+        "location": "6 Linda Lane",
         "parameter": "temperature",
-        "value": 20.251413822174072,
+        "value": 69.8,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.76484,
+        "longitude": -71.12986
+    },
+    {
+        "id": 1059191,
+        "location": "LUNG-0002",
+        "parameter": "temperature",
+        "value": 63.833333333333336,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 46.11965,
+        "longitude": -64.769394
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 69557,
+        "location": "Fiori Lane Farm",
         "parameter": "temperature",
-        "value": 76.35714285714286,
+        "value": 80.0,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
+        "latitude": 38.394646,
+        "longitude": -122.92404
     },
     {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
+        "id": 71386,
+        "location": "Georgia Tech - Aware Home Outdoor",
         "parameter": "temperature",
-        "value": 75.63636363636364,
+        "value": 81.26315789473684,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
+        "latitude": 33.781746,
+        "longitude": -84.40292
     },
     {
-        "id": 67057,
-        "location": "INOEAUST1",
+        "id": 71389,
+        "location": "Timber Ridge Lane",
         "parameter": "temperature",
-        "value": 80.12,
+        "value": 84.79166666666667,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
+        "latitude": 37.06883,
+        "longitude": -121.98734
     },
     {
-        "id": 67102,
-        "location": "ITIROLAX2",
+        "id": 65258,
+        "location": "Upper Cavedale",
         "parameter": "temperature",
-        "value": 65.52,
+        "value": 83.33333333333333,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
+        "latitude": 38.363735,
+        "longitude": -122.471695
     },
     {
-        "id": 68158,
-        "location": "Wetterstation Gern",
+        "id": 222805,
+        "location": "Uplands2",
         "parameter": "temperature",
-        "value": 71.73333333333333,
+        "value": 63.89473684210526,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
+        "latitude": 49.796337,
+        "longitude": -119.52191
     },
     {
-        "id": 68158,
-        "location": "Wetterstation Gern",
+        "id": 62460,
+        "location": "Ranch@CypressCreek",
         "parameter": "temperature",
-        "value": 73.93333333333334,
+        "value": 99.42105263157895,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
+        "latitude": 30.483,
+        "longitude": -97.8485
     },
     {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
+        "id": 69041,
+        "location": "Weird Hill",
         "parameter": "temperature",
-        "value": 22.73895835876465,
+        "value": 91.1,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.272476,
+        "longitude": -121.815865
+    },
+    {
+        "id": 63968,
+        "location": "Fruitvalle",
+        "parameter": "temperature",
+        "value": 89.94444444444444,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.251064,
+        "longitude": -122.0113
+    },
+    {
+        "id": 362877,
+        "location": "Bengali Street",
+        "parameter": "temperature",
+        "value": 86.46666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.79482,
+        "longitude": -121.87547
+    },
+    {
+        "id": 922146,
+        "location": "UCM-7266",
+        "parameter": "temperature",
+        "value": 88.8,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.951897,
+        "longitude": -121.2416
+    },
+    {
+        "id": 72827,
+        "location": "Ridley Athletic Complex",
+        "parameter": "temperature",
+        "value": 66.51724137931035,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.336952,
+        "longitude": -76.653336
+    },
+    {
+        "id": 354761,
+        "location": "MNA WilMar Location",
+        "parameter": "temperature",
+        "value": 69.15789473684211,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.080124,
+        "longitude": -89.36702
+    },
+    {
+        "id": 64870,
+        "location": "Scio-Lacomb",
+        "parameter": "temperature",
+        "value": 70.06666666666666,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.62394,
+        "longitude": -122.80417
+    },
+    {
+        "id": 370089,
+        "location": "Sherwood",
+        "parameter": "temperature",
+        "value": 74.33333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.985455,
+        "longitude": -123.078026
+    },
+    {
+        "id": 362690,
+        "location": "Galena visitor center",
+        "parameter": "temperature",
+        "value": 72.94736842105263,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.363857,
+        "longitude": -119.85165
+    },
+    {
+        "id": 352670,
+        "location": "Union Hill",
+        "parameter": "temperature",
+        "value": 61.95238095238095,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.66327,
+        "longitude": -122.05703
+    },
+    {
+        "id": 338070,
+        "location": "Main Street New Denver",
+        "parameter": "temperature",
+        "value": 62.592592592592595,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 49.991905,
+        "longitude": -117.37433
+    },
+    {
+        "id": 341157,
+        "location": "Ladera - Lucero and Mimosa",
+        "parameter": "temperature",
+        "value": 88.63157894736842,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.401497,
+        "longitude": -122.2033
+    },
+    {
+        "id": 1555512,
+        "location": "Meteobescano",
+        "parameter": "temperature",
+        "value": 70.3,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 41.96293,
+        "longitude": 2.737623
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 69209,
+        "location": "1909 pelham",
         "parameter": "temperature",
-        "value": 22.094255924224854,
+        "value": 97.7,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.05029,
+        "longitude": -118.43107
+    },
+    {
+        "id": 1424081,
+        "location": "Western South Riding",
+        "parameter": "temperature",
+        "value": 72.66666666666667,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 38.919132,
+        "longitude": -77.53386
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 1365624,
+        "location": "Millington",
         "parameter": "temperature",
-        "value": 79.4,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 77.8,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 83.2,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 67.2,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 23.621116161346436,
+        "value": 66.0,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 43.281666,
+        "longitude": -83.52037
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 1142437,
+        "location": "Hickory Hill",
         "parameter": "temperature",
-        "value": 24.355372269948322,
+        "value": 79.0,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 37.845795,
+        "longitude": -78.352005
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 351735,
+        "location": "Fen Edge",
         "parameter": "temperature",
-        "value": 82.13333333333334,
+        "value": 63.46666666666667,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
+        "latitude": 52.45954,
+        "longitude": -0.234248
     },
     {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
+        "id": 72736,
+        "location": "ABMR",
         "parameter": "temperature",
-        "value": 80.36363636363636,
+        "value": 89.0,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
+        "latitude": 37.477615,
+        "longitude": -122.23219
     },
     {
-        "id": 67057,
-        "location": "INOEAUST1",
+        "id": 69312,
+        "location": "SURFRAD_PSU",
+        "parameter": "temperature",
+        "value": 64.5,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.72013,
+        "longitude": -77.93083
+    },
+    {
+        "id": 69313,
+        "location": "Camp Chari",
+        "parameter": "temperature",
+        "value": 88.71428571428571,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.71422,
+        "longitude": -122.97489
+    },
+    {
+        "id": 921397,
+        "location": "Lynnwood, WA",
+        "parameter": "temperature",
+        "value": 66.6,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.836346,
+        "longitude": -122.281715
+    },
+    {
+        "id": 71984,
+        "location": "Pointe Woodworth",
+        "parameter": "temperature",
+        "value": 66.93333333333334,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.2751,
+        "longitude": -122.37583
+    },
+    {
+        "id": 232154,
+        "location": "Madrone",
+        "parameter": "temperature",
+        "value": 90.8,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.34566,
+        "longitude": -122.49405
+    },
+    {
+        "id": 921038,
+        "location": "NPGGS Hristo Botev",
+        "parameter": "temperature",
+        "value": 16.39016666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.0262,
+        "longitude": 23.976
+    },
+    {
+        "id": 921025,
+        "location": "Patriarh Evtimii St.",
+        "parameter": "temperature",
+        "value": 18.249333333333343,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.0535,
+        "longitude": 25.5813
+    },
+    {
+        "id": 68746,
+        "location": "N. Strata Via Way",
+        "parameter": "temperature",
+        "value": 77.5,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.60659,
+        "longitude": -116.15201
+    },
+    {
+        "id": 230776,
+        "location": "GPI - Vancouver",
+        "parameter": "temperature",
+        "value": 68.86666666666666,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.614346,
+        "longitude": -122.49786
+    },
+    {
+        "id": 68706,
+        "location": "CCA Caledonia and Orilla",
+        "parameter": "temperature",
+        "value": 82.41379310344827,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.133114,
+        "longitude": -118.23514
+    },
+    {
+        "id": 226332,
+        "location": "Finley Pool",
+        "parameter": "temperature",
+        "value": 93.56666666666666,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.444427,
+        "longitude": -122.750374
+    },
+    {
+        "id": 1289459,
+        "location": "Jefferson Elementary Winslow",
+        "parameter": "temperature",
+        "value": 87.42857142857143,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 35.03293,
+        "longitude": -110.6939
+    },
+    {
+        "id": 1289457,
+        "location": "550 MLK Project",
+        "parameter": "temperature",
+        "value": 72.57894736842105,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.518467,
+        "longitude": -122.6622
+    },
+    {
+        "id": 739995,
+        "location": "#1 Vittum Park/#1 Garfield Ridge",
+        "parameter": "temperature",
+        "value": 71.66666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.803444,
+        "longitude": -87.74957
+    },
+    {
+        "id": 233979,
+        "location": "Backyard",
+        "parameter": "temperature",
+        "value": 89.5,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.299656,
+        "longitude": -121.88817
+    },
+    {
+        "id": 444069,
+        "location": "de Haro Blvd",
+        "parameter": "temperature",
+        "value": 76.5,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.752346,
+        "longitude": -122.40044
+    },
+    {
+        "id": 743429,
+        "location": "Mt Shasta Dr.",
+        "parameter": "temperature",
+        "value": 83.0909090909091,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.030663,
+        "longitude": -122.57525
+    },
+    {
+        "id": 365515,
+        "location": "Greenview Drive",
+        "parameter": "temperature",
+        "value": 91.66666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.507202,
+        "longitude": -122.74789
+    },
+    {
+        "id": 623479,
+        "location": "AQM1-Sac",
+        "parameter": "temperature",
+        "value": 101.3157894736842,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.523804,
+        "longitude": -121.433586
+    },
+    {
+        "id": 70218,
+        "location": "Mills Estates",
+        "parameter": "temperature",
+        "value": 73.5,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.58729,
+        "longitude": -122.40022
+    },
+    {
+        "id": 1350750,
+        "location": "SW Redmond, OR",
+        "parameter": "temperature",
+        "value": 69.25925925925925,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.24161,
+        "longitude": -121.22002
+    },
+    {
+        "id": 1314329,
+        "location": "McFarland",
+        "parameter": "temperature",
+        "value": 79.37931034482759,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.098476,
+        "longitude": -84.51862
+    },
+    {
+        "id": 1275403,
+        "location": "CyLab 22xx Outside",
+        "parameter": "temperature",
+        "value": 76.0952380952381,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.443962,
+        "longitude": -79.946304
+    },
+    {
+        "id": 1236057,
+        "location": "Suwannakhuhapittayasan school 1, Suwan Khuha, Nong Bua Lamphu",
+        "parameter": "temperature",
+        "value": 25.353333314259846,
+        "entity": "Person",
+        "sensorType": "reference grade",
+        "latitude": 17.23816238132771,
+        "longitude": 102.43412910724983
+    },
+    {
+        "id": 1236050,
+        "location": "Prem Tinsulanonda International School",
+        "parameter": "temperature",
+        "value": 24.516250292460125,
+        "entity": "Person",
+        "sensorType": "reference grade",
+        "latitude": 18.96255421231335,
+        "longitude": 98.91562786546136
+    },
+    {
+        "id": 1236053,
+        "location": "Suwannaramwittayakom school 1, Bangkok Noi, Bangkok",
+        "parameter": "temperature",
+        "value": 28.612082958221436,
+        "entity": "Person",
+        "sensorType": "reference grade",
+        "latitude": 13.76312579330489,
+        "longitude": 100.47612901861227
+    },
+    {
+        "id": 1236052,
+        "location": "AirGradient Monitor, Gatineau, Quebec, Canada",
+        "parameter": "temperature",
+        "value": 17.509434700012207,
+        "entity": "Person",
+        "sensorType": "reference grade",
+        "latitude": 45.499661209969304,
+        "longitude": -75.73283069009466
+    },
+    {
+        "id": 1211712,
+        "location": "Ned Hickey Park",
+        "parameter": "temperature",
+        "value": 67.42307692307692,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.49165,
+        "longitude": -76.480446
+    },
+    {
+        "id": 1212056,
+        "location": "Tuscany",
+        "parameter": "temperature",
+        "value": 70.13793103448276,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 48.073425,
+        "longitude": -122.128555
+    },
+    {
+        "id": 1197250,
+        "location": "AP1",
+        "parameter": "temperature",
+        "value": 73.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.853493,
+        "longitude": -87.924835
+    },
+    {
+        "id": 1141710,
+        "location": "Medeiros ES-CSUS",
+        "parameter": "temperature",
+        "value": 97.75,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.5333,
+        "longitude": -120.85744
+    },
+    {
+        "id": 1141711,
+        "location": "Earl ES-CSUS",
+        "parameter": "temperature",
+        "value": 88.63333333333334,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.53147,
+        "longitude": -120.840965
+    },
+    {
+        "id": 1113499,
+        "location": "Dutch Creek",
+        "parameter": "temperature",
+        "value": 92.2,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.59594,
+        "longitude": -105.11352
+    },
+    {
+        "id": 1079521,
+        "location": "Rollet",
+        "parameter": "temperature",
+        "value": 68.27586206896552,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.91424,
+        "longitude": -79.24268
+    },
+    {
+        "id": 234505,
+        "location": "Merideth",
+        "parameter": "temperature",
+        "value": 85.4,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.86989,
+        "longitude": -122.028244
+    },
+    {
+        "id": 67626,
+        "location": "Blackney Ranch",
+        "parameter": "temperature",
+        "value": 87.72,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.38426,
+        "longitude": -122.837006
+    },
+    {
+        "id": 69704,
+        "location": "Polish Town",
+        "parameter": "temperature",
+        "value": 69.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.921623,
+        "longitude": -72.67763
+    },
+    {
+        "id": 68634,
+        "location": "Hacienda",
+        "parameter": "temperature",
+        "value": 75.20689655172414,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.908264,
+        "longitude": -122.74223
+    },
+    {
+        "id": 68501,
+        "location": "Plymouth &amp; Greenwood, San Franicsco",
+        "parameter": "temperature",
+        "value": 73.95238095238095,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.728752,
+        "longitude": -122.456215
+    },
+    {
+        "id": 160397,
+        "location": "SBCAPCD_Info_21",
+        "parameter": "temperature",
+        "value": 90.63157894736842,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.390854,
+        "longitude": -119.50694
+    },
+    {
+        "id": 750537,
+        "location": "Longworth Square",
+        "parameter": "temperature",
+        "value": 83.42105263157895,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.105816,
+        "longitude": -84.52173
+    },
+    {
+        "id": 426701,
+        "location": "2nd Floor Deck",
+        "parameter": "temperature",
+        "value": 68.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.63359,
+        "longitude": -122.278275
+    },
+    {
+        "id": 235474,
+        "location": "Park Ave",
+        "parameter": "temperature",
+        "value": 72.16666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 46.599407,
+        "longitude": -120.53511
+    },
+    {
+        "id": 1635273,
+        "location": "HARBORWORKS (NLCEP)",
+        "parameter": "temperature",
+        "value": 76.36666666666666,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.638588,
+        "longitude": -87.45086
+    },
+    {
+        "id": 68372,
+        "location": "NC#104_Coffee Creek",
+        "parameter": "temperature",
+        "value": 80.33333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.085648,
+        "longitude": -122.71191
+    },
+    {
+        "id": 1635243,
+        "location": "Pahala PA16",
+        "parameter": "temperature",
+        "value": 92.44444444444444,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 19.203798,
+        "longitude": -155.48013
+    },
+    {
+        "id": 1635051,
+        "location": "CCSJ (NLCEP)",
+        "parameter": "temperature",
+        "value": 71.96296296296296,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.67091,
+        "longitude": -87.49327
+    },
+    {
+        "id": 1635045,
+        "location": "Richfield",
+        "parameter": "temperature",
+        "value": 86.63333333333334,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.7805,
+        "longitude": -112.084
+    },
+    {
+        "id": 1634890,
+        "location": "CG Clean Air Ambassador @ Mosier Community School",
+        "parameter": "temperature",
+        "value": 71.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.68292,
+        "longitude": -121.40065
+    },
+    {
+        "id": 276184,
+        "location": "Milliken",
+        "parameter": "temperature",
+        "value": 88.55172413793103,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.35916,
+        "longitude": -104.87549
+    },
+    {
+        "id": 1634191,
+        "location": "Louden Tribal Office",
+        "parameter": "temperature",
+        "value": 53.6,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 64.74714,
+        "longitude": -156.85458
+    },
+    {
+        "id": 1634190,
+        "location": "CCST EPA Tester #2",
+        "parameter": "temperature",
+        "value": 83.80952380952381,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.07425,
+        "longitude": -99.44342
+    },
+    {
+        "id": 1634157,
+        "location": "Escuela Juan Bautista Chesta",
+        "parameter": "temperature",
+        "value": 62.9,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.992718,
+        "longitude": -72.62788
+    },
+    {
+        "id": 1630927,
+        "location": "Millennium farm",
+        "parameter": "temperature",
+        "value": 90.77777777777777,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.41365,
+        "longitude": -122.196815
+    },
+    {
+        "id": 1631112,
+        "location": "GeoHealth_CAJ_Cajam_26",
+        "parameter": "temperature",
+        "value": 79.85185185185185,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -7.173052,
+        "longitude": -78.49614
+    },
+    {
+        "id": 1631114,
+        "location": "E 23rd Street Outside",
+        "parameter": "temperature",
+        "value": 82.36363636363636,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.78921,
+        "longitude": -122.22789
+    },
+    {
+        "id": 1631131,
+        "location": "Yoder",
+        "parameter": "temperature",
+        "value": 90.96153846153847,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.631096,
+        "longitude": -105.18143
+    },
+    {
+        "id": 1631287,
+        "location": "City Hall",
+        "parameter": "temperature",
+        "value": 52.625,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 60.80104,
+        "longitude": -161.77489
+    },
+    {
+        "id": 1631450,
+        "location": "Air_Indi",
+        "parameter": "temperature",
+        "value": 88.84210526315789,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.180122,
+        "longitude": -105.07622
+    },
+    {
+        "id": 1631299,
+        "location": "Home",
+        "parameter": "temperature",
+        "value": 79.9047619047619,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.438004,
+        "longitude": -122.19863
+    },
+    {
+        "id": 1631476,
+        "location": "Findlay Creek",
+        "parameter": "temperature",
+        "value": 77.2,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.3247,
+        "longitude": -75.605606
+    },
+    {
+        "id": 1631475,
+        "location": "Tausa - Rasgat\u00e1 alto (Cuchavira)",
+        "parameter": "temperature",
+        "value": 64.76666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 5.18335,
+        "longitude": -73.87592
+    },
+    {
+        "id": 1631987,
+        "location": "Colonial Oaks - out",
+        "parameter": "temperature",
+        "value": 89.86206896551724,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.354507,
+        "longitude": -122.07861
+    },
+    {
+        "id": 1632016,
+        "location": "GGNRA / Eastwood Way",
+        "parameter": "temperature",
+        "value": 86.06896551724138,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.88358,
+        "longitude": -122.54764
+    },
+    {
+        "id": 73680,
+        "location": "EKAPCD-tehachapi sensor 2",
+        "parameter": "temperature",
+        "value": 77.96153846153847,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 35.115257,
+        "longitude": -118.454384
+    },
+    {
+        "id": 1633942,
+        "location": "Crowden",
+        "parameter": "temperature",
+        "value": 89.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.879047,
+        "longitude": -122.28342
+    },
+    {
+        "id": 489682,
+        "location": "UOH s12",
+        "parameter": "temperature",
+        "value": 76.23333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": -34.164616,
+        "longitude": -70.74133
+    },
+    {
+        "id": 1634009,
+        "location": "Marysvale",
+        "parameter": "temperature",
+        "value": 81.63333333333334,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.45,
+        "longitude": -112.23288
+    },
+    {
+        "id": 1629132,
+        "location": "SL046 Saddlers Way",
+        "parameter": "temperature",
+        "value": 61.26315789473684,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 53.953255,
+        "longitude": -1.235537
+    },
+    {
+        "id": 1629299,
+        "location": "CMM-PAQ-007",
+        "parameter": "temperature",
+        "value": 66.79166666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.674236,
+        "longitude": -62.65232
+    },
+    {
+        "id": 1629312,
+        "location": "Laurel School Lyman Campus",
+        "parameter": "temperature",
+        "value": 63.72727272727273,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.482605,
+        "longitude": -81.5125
+    },
+    {
+        "id": 1629472,
+        "location": "Mat\u021f\u00f3 Ak\u00ed\u010dhita, \u00cd\u014bya\u014b Wosl\u00e1l H\u00e1\u014b (Bear Soldier District, Standing Rock Reservation) (McLaughlin, SD)",
+        "parameter": "temperature",
+        "value": 76.04347826086956,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.772766,
+        "longitude": -100.81408
+    },
+    {
+        "id": 1629668,
+        "location": "Mt-Bethel-611SouthCC",
+        "parameter": "temperature",
+        "value": 62.625,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.86174,
+        "longitude": -75.13038
+    },
+    {
+        "id": 68570,
+        "location": "Squawker Ranch",
+        "parameter": "temperature",
+        "value": 78.80952380952381,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.110477,
+        "longitude": -118.62882
+    },
+    {
+        "id": 1630021,
+        "location": "The Wyss Academy for Nature",
+        "parameter": "temperature",
+        "value": 85.94117647058823,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -12.598357,
+        "longitude": -69.21844
+    },
+    {
+        "id": 1630025,
+        "location": "Justin-Siena High School - Dodd Stadium",
+        "parameter": "temperature",
+        "value": 90.95238095238095,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.33057,
+        "longitude": -122.31968
+    },
+    {
+        "id": 1630027,
+        "location": "Sierra Outdoor School",
+        "parameter": "temperature",
+        "value": 82.03571428571429,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.05012,
+        "longitude": -120.302704
+    },
+    {
+        "id": 1630028,
+        "location": "GeoHealth_CAJ_Ba\u00f1os_25",
+        "parameter": "temperature",
+        "value": 70.12,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -7.169642,
+        "longitude": -78.457016
+    },
+    {
+        "id": 1630182,
+        "location": "Jersey and Vicksberg II",
+        "parameter": "temperature",
+        "value": 76.10714285714286,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.751137,
+        "longitude": -122.42802
+    },
+    {
+        "id": 1630201,
+        "location": "Manawan - Centre de Sant\u00e9 Masko-Siwin",
+        "parameter": "temperature",
+        "value": 62.46666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.22433,
+        "longitude": -74.39213
+    },
+    {
+        "id": 1630384,
+        "location": "ConcordCourtMarina",
+        "parameter": "temperature",
+        "value": 79.37931034482759,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.67211,
+        "longitude": -121.79088
+    },
+    {
+        "id": 1630546,
+        "location": "Beach Rd.",
+        "parameter": "temperature",
+        "value": 82.14814814814815,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.97526,
+        "longitude": -122.48036
+    },
+    {
+        "id": 1630568,
+        "location": "1024 Keith",
+        "parameter": "temperature",
+        "value": 93.29629629629629,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.889416,
+        "longitude": -122.26587
+    },
+    {
+        "id": 1630548,
+        "location": "ucm-4aef",
+        "parameter": "temperature",
+        "value": 84.15789473684211,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.36586,
+        "longitude": -120.42135
+    },
+    {
+        "id": 1630729,
+        "location": "Giusti Road",
+        "parameter": "temperature",
+        "value": 91.15,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.48356,
+        "longitude": -122.90181
+    },
+    {
+        "id": 1630910,
+        "location": "ucm-2c92",
+        "parameter": "temperature",
+        "value": 85.73333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.36593,
+        "longitude": -120.42127
+    },
+    {
+        "id": 1626050,
+        "location": "Meadowlands HOA",
+        "parameter": "temperature",
+        "value": 84.28571428571429,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.00437,
+        "longitude": -122.60487
+    },
+    {
+        "id": 70817,
+        "location": "UABC VALLE DE LAS PALMAS",
+        "parameter": "temperature",
+        "value": 101.78571428571429,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 32.434776,
+        "longitude": -116.6751
+    },
+    {
+        "id": 1626077,
+        "location": "Opitciwan Maison des a\u00een\u00e9s (Ext)",
+        "parameter": "temperature",
+        "value": 66.6086956521739,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 48.655495,
+        "longitude": -74.94439
+    },
+    {
+        "id": 1626086,
+        "location": "WGHS",
+        "parameter": "temperature",
+        "value": 82.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.29179,
+        "longitude": -121.89804
+    },
+    {
+        "id": 233226,
+        "location": "Down By the River (Outside)",
+        "parameter": "temperature",
+        "value": 107.24,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.519222,
+        "longitude": -119.99625
+    },
+    {
+        "id": 1626259,
+        "location": "All Saints Catholic School",
+        "parameter": "temperature",
+        "value": 70.25925925925925,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 50.3135,
+        "longitude": -107.78
+    },
+    {
+        "id": 1626261,
+        "location": "Valley of Peace High School",
+        "parameter": "temperature",
+        "value": 93.75,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 17.3293,
+        "longitude": -88.843765
+    },
+    {
+        "id": 281508,
+        "location": "ExposureScience2",
+        "parameter": "temperature",
+        "value": 77.45454545454545,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.303837,
+        "longitude": -72.93221
+    },
+    {
+        "id": 1626275,
+        "location": "Christ The King School",
+        "parameter": "temperature",
+        "value": 71.5,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 49.65119,
+        "longitude": -108.40426
+    },
+    {
+        "id": 1626436,
+        "location": "SLO",
+        "parameter": "temperature",
+        "value": 88.92307692307692,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 35.30479,
+        "longitude": -120.682236
+    },
+    {
+        "id": 1626441,
+        "location": "EastonRd",
+        "parameter": "temperature",
+        "value": 65.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.65732,
+        "longitude": -75.33185
+    },
+    {
+        "id": 1626646,
+        "location": "Outside the pain cave",
+        "parameter": "temperature",
+        "value": 83.14285714285714,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.973625,
+        "longitude": -122.035675
+    },
+    {
+        "id": 62785,
+        "location": "San Marino",
+        "parameter": "temperature",
+        "value": 105.58620689655173,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.990704,
+        "longitude": -122.46377
+    },
+    {
+        "id": 1626820,
+        "location": "GBUAPCD_BishopCityPark",
+        "parameter": "temperature",
+        "value": 117.57894736842105,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.36646,
+        "longitude": -118.39406
+    },
+    {
+        "id": 62501,
+        "location": "Willow Glen West",
+        "parameter": "temperature",
+        "value": 86.14285714285714,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.304996,
+        "longitude": -121.91792
+    },
+    {
+        "id": 1627162,
+        "location": "Strawberry",
+        "parameter": "temperature",
+        "value": 89.76666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.89954,
+        "longitude": -122.50868
+    },
+    {
+        "id": 1628560,
+        "location": "CCROM",
+        "parameter": "temperature",
+        "value": 92.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -6.600122,
+        "longitude": 106.80667
+    },
+    {
+        "id": 233229,
+        "location": "Shelton ext.",
+        "parameter": "temperature",
+        "value": 68.88461538461539,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.660828,
+        "longitude": -77.347786
+    },
+    {
+        "id": 928382,
+        "location": "Trinity Episcopal Church",
+        "parameter": "temperature",
+        "value": 92.6,
+        "entity": "Person",
+        "sensorType": "reference grade",
+        "latitude": 39.08723,
+        "longitude": -84.510574
+    },
+    {
+        "id": 63468,
+        "location": "Bell Valley Retreat",
+        "parameter": "temperature",
+        "value": 77.84615384615384,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.0265,
+        "longitude": -123.29045
+    },
+    {
+        "id": 1622639,
+        "location": "Klamath River Club #2",
+        "parameter": "temperature",
+        "value": 82.53333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.868046,
+        "longitude": -122.81633
+    },
+    {
+        "id": 1622640,
+        "location": "Giralang West",
+        "parameter": "temperature",
+        "value": 74.9047619047619,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -35.20954,
+        "longitude": 149.09122
+    },
+    {
+        "id": 1622786,
+        "location": "Rustic Rd, Pinecrest",
+        "parameter": "temperature",
+        "value": 77.26315789473684,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.186638,
+        "longitude": -119.99596
+    },
+    {
+        "id": 1622798,
+        "location": "Lahaina Comprehensive Health Center",
+        "parameter": "temperature",
+        "value": 92.66666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 20.904352,
+        "longitude": -156.68391
+    },
+    {
+        "id": 1623324,
+        "location": "Treemont",
+        "parameter": "temperature",
+        "value": 99.95238095238095,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 30.268723,
+        "longitude": -97.79208
+    },
+    {
+        "id": 1624788,
+        "location": "Svilengrad, Bulgaria",
+        "parameter": "temperature",
+        "value": 18.514,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.766,
+        "longitude": 26.2054
+    },
+    {
+        "id": 1624787,
+        "location": "CienTec-inside",
+        "parameter": "temperature",
+        "value": 65.84210526315789,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -23.651457,
+        "longitude": -46.623
+    },
+    {
+        "id": 268617,
+        "location": "Conseil Opitciwan",
+        "parameter": "temperature",
+        "value": 64.63333333333334,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 48.659653,
+        "longitude": -74.938034
+    },
+    {
+        "id": 1625283,
+        "location": "SHASTAAQMD_ARB#5_ANDERSON HIGH SCHOOL",
+        "parameter": "temperature",
+        "value": 88.57142857142857,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.44337,
+        "longitude": -122.30607
+    },
+    {
+        "id": 1625486,
+        "location": "SHASTAAQMD_ARB#4_BELLA VISTA ELEMENTARY",
+        "parameter": "temperature",
+        "value": 78.9090909090909,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.6386,
+        "longitude": -122.23195
+    },
+    {
+        "id": 1625488,
+        "location": "49TH DR",
+        "parameter": "temperature",
+        "value": 84.48275862068965,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.788086,
+        "longitude": -104.8939
+    },
+    {
+        "id": 1625492,
+        "location": "Av-7-517d",
+        "parameter": "temperature",
+        "value": 77.66666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.865868,
+        "longitude": -81.49107
+    },
+    {
+        "id": 1625532,
+        "location": "Town of Windsor Public Works",
+        "parameter": "temperature",
+        "value": 84.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.541775,
+        "longitude": -122.816505
+    },
+    {
+        "id": 317489,
+        "location": "EVLT Sensor",
+        "parameter": "temperature",
+        "value": 75.76190476190476,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.37068,
+        "longitude": -105.50321
+    },
+    {
+        "id": 1625720,
+        "location": "purple1600",
+        "parameter": "temperature",
+        "value": 82.14285714285714,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.88451,
+        "longitude": -122.2809
+    },
+    {
+        "id": 1625876,
+        "location": "CCST EPA Tester",
+        "parameter": "temperature",
+        "value": 93.16666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.074337,
+        "longitude": -99.44339
+    },
+    {
+        "id": 605554,
+        "location": "Base Porto Murtinho (ICMBIO)",
+        "parameter": "temperature",
+        "value": 95.75862068965517,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": -12.294096,
+        "longitude": -63.395008
+    },
+    {
+        "id": 1625897,
+        "location": "LCC building 16",
+        "parameter": "temperature",
+        "value": 76.25,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.00794,
+        "longitude": -123.03237
+    },
+    {
+        "id": 1619375,
+        "location": "ANU #35",
+        "parameter": "temperature",
+        "value": 74.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619378,
+        "location": "ANU #40",
+        "parameter": "temperature",
+        "value": 75.80952380952381,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619388,
+        "location": "ANU #39",
+        "parameter": "temperature",
+        "value": 75.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024982,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619387,
+        "location": "ANU #37",
+        "parameter": "temperature",
+        "value": 74.94736842105263,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.02499,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619562,
+        "location": "ANU #01",
+        "parameter": "temperature",
+        "value": 74.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024868,
+        "longitude": 145.10243
+    },
+    {
+        "id": 62741,
+        "location": "Bosanski Petrovac",
+        "parameter": "temperature",
+        "value": 58.08,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.54698,
+        "longitude": 16.350733
+    },
+    {
+        "id": 231471,
+        "location": "untamedtaco",
+        "parameter": "temperature",
+        "value": 77.66666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.844776,
+        "longitude": -122.26311
+    },
+    {
+        "id": 70105,
+        "location": "MPAC_CZS_01_promotoria",
+        "parameter": "temperature",
+        "value": 105.83333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": -7.630234,
+        "longitude": -72.66575
+    },
+    {
+        "id": 223023,
+        "location": "La Ronge",
+        "parameter": "temperature",
+        "value": 65.95,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 55.099724,
+        "longitude": -105.29466
+    },
+    {
+        "id": 1621347,
+        "location": "Neumann Huskies",
+        "parameter": "temperature",
+        "value": 86.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.85934,
+        "longitude": -84.294
+    },
+    {
+        "id": 1621364,
+        "location": "Mountain View Middle School",
+        "parameter": "temperature",
+        "value": 93.23333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.60279,
+        "longitude": -122.32547
+    },
+    {
+        "id": 1621366,
+        "location": "Nahcotta Air",
+        "parameter": "temperature",
+        "value": 62.80952380952381,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 46.516716,
+        "longitude": -124.02687
+    },
+    {
+        "id": 1621528,
+        "location": "GECS/YLC",
+        "parameter": "temperature",
+        "value": 80.8,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.717865,
+        "longitude": -122.64296
+    },
+    {
+        "id": 71146,
+        "location": "BFF",
+        "parameter": "temperature",
+        "value": 81.73684210526316,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.86368,
+        "longitude": -121.99909
+    },
+    {
+        "id": 1621727,
+        "location": "Gateway School (new)",
+        "parameter": "temperature",
+        "value": 84.36842105263158,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.953396,
+        "longitude": -122.04876
+    },
+    {
+        "id": 1621905,
+        "location": "Emerald Plaza",
+        "parameter": "temperature",
+        "value": 98.30434782608695,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 20.8833,
+        "longitude": -156.67715
+    },
+    {
+        "id": 68074,
+        "location": "MDAQMD-SVUSD-SVHS",
+        "parameter": "temperature",
+        "value": 100.26315789473684,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.89701,
+        "longitude": -116.88852
+    },
+    {
+        "id": 1622289,
+        "location": "Bent Oak - Blackhawk",
+        "parameter": "temperature",
+        "value": 87.73684210526316,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.810818,
+        "longitude": -121.89364
+    },
+    {
+        "id": 1622301,
+        "location": "Northgate",
+        "parameter": "temperature",
+        "value": 96.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.08885,
+        "longitude": -122.11537
+    },
+    {
+        "id": 1622303,
+        "location": "McKendry",
+        "parameter": "temperature",
+        "value": 89.10526315789474,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.45961,
+        "longitude": -122.16017
+    },
+    {
+        "id": 1617113,
+        "location": "Seymour 1",
+        "parameter": "temperature",
+        "value": 71.85714285714286,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.837036,
+        "longitude": -91.364944
+    },
+    {
+        "id": 227128,
+        "location": "Patrimonio02",
+        "parameter": "temperature",
+        "value": 73.66666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.194096,
+        "longitude": 14.17253
+    },
+    {
+        "id": 1617274,
+        "location": "College Park",
+        "parameter": "temperature",
+        "value": 74.43333333333334,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 53.258633,
+        "longitude": -110.02521
+    },
+    {
+        "id": 1617437,
+        "location": "135 Calera Canyon Rd, Corral de Tierra",
+        "parameter": "temperature",
+        "value": 79.3157894736842,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.5335,
+        "longitude": -121.7379
+    },
+    {
+        "id": 1617450,
+        "location": "Vancouver Lake",
+        "parameter": "temperature",
+        "value": 85.8,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.674374,
+        "longitude": -122.69831
+    },
+    {
+        "id": 1617784,
+        "location": "Sheffler Rd",
+        "parameter": "temperature",
+        "value": 71.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.101414,
+        "longitude": -123.38762
+    },
+    {
+        "id": 1617797,
+        "location": "Erbes Rd",
+        "parameter": "temperature",
+        "value": 79.19047619047619,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.185787,
+        "longitude": -118.84886
+    },
+    {
+        "id": 68655,
+        "location": "via de la vista",
+        "parameter": "temperature",
+        "value": 83.66666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.363625,
+        "longitude": -121.76799
+    },
+    {
+        "id": 276522,
+        "location": "Opal",
         "parameter": "temperature",
         "value": 85.0,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
+        "latitude": 37.477894,
+        "longitude": -122.24878
     },
     {
-        "id": 67102,
-        "location": "ITIROLAX2",
+        "id": 354567,
+        "location": "910 Nelchina St.",
         "parameter": "temperature",
-        "value": 70.4,
+        "value": 59.476190476190474,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
+        "latitude": 61.21327,
+        "longitude": -149.85693
     },
     {
-        "id": 68158,
-        "location": "Wetterstation Gern",
+        "id": 1618647,
+        "location": "Tiputini Boat",
         "parameter": "temperature",
-        "value": 78.13333333333334,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 24.324389457702637,
+        "value": 88.5,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": -0.6383,
+        "longitude": -76.15
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 283088,
+        "location": "ExposureScience13",
         "parameter": "temperature",
-        "value": 25.078869024912517,
-        "entity": "Person",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
-    },
-    {
-        "id": 65677,
-        "location": "Vienna-1210",
-        "parameter": "temperature",
-        "value": 83.93103448275862,
+        "value": 80.52380952380952,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
+        "latitude": 41.3023,
+        "longitude": -72.93392
     },
     {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
+        "id": 1618837,
+        "location": "University Outdoor Flex",
+        "parameter": "temperature",
+        "value": 100.57894736842105,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.44479,
+        "longitude": -122.17674
+    },
+    {
+        "id": 1619209,
+        "location": "ANU #30",
+        "parameter": "temperature",
+        "value": 74.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619211,
+        "location": "ANU #31",
+        "parameter": "temperature",
+        "value": 75.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619213,
+        "location": "ANU #32",
+        "parameter": "temperature",
+        "value": 76.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.02499,
+        "longitude": 145.10251
+    },
+    {
+        "id": 1619224,
+        "location": "ANU #33",
+        "parameter": "temperature",
+        "value": 75.42857142857143,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.1025
+    },
+    {
+        "id": 1619227,
+        "location": "ANU #34",
+        "parameter": "temperature",
+        "value": 75.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.10252
+    },
+    {
+        "id": 1619228,
+        "location": "ANU #36",
+        "parameter": "temperature",
+        "value": 76.03333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.02498,
+        "longitude": 145.1025
+    },
+    {
+        "id": 1619230,
+        "location": "ANU #38",
+        "parameter": "temperature",
+        "value": 75.07692307692308,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -38.024986,
+        "longitude": 145.10251
+    },
+    {
+        "id": 69304,
+        "location": "Santa Lucia Ave",
+        "parameter": "temperature",
+        "value": 72.76923076923077,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.545593,
+        "longitude": -121.92847
+    },
+    {
+        "id": 1612874,
+        "location": "NW Broadway St",
+        "parameter": "temperature",
+        "value": 77.05555555555556,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.21918,
+        "longitude": -123.39439
+    },
+    {
+        "id": 75783,
+        "location": "Estrella Outside",
+        "parameter": "temperature",
+        "value": 80.63333333333334,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.82968,
+        "longitude": -122.238556
+    },
+    {
+        "id": 67747,
+        "location": "Lewis and Clark Park",
+        "parameter": "temperature",
+        "value": 69.71428571428571,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.064205,
+        "longitude": -121.35276
+    },
+    {
+        "id": 72757,
+        "location": "Crow Canyon",
+        "parameter": "temperature",
+        "value": 89.86363636363636,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.792015,
+        "longitude": -121.9522
+    },
+    {
+        "id": 1613239,
+        "location": "H/B Heron",
+        "parameter": "temperature",
+        "value": 83.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.8718,
+        "longitude": -122.5011
+    },
+    {
+        "id": 1613400,
+        "location": "Juncoyard Outdoor",
+        "parameter": "temperature",
+        "value": 74.28571428571429,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.072,
+        "longitude": -122.622
+    },
+    {
+        "id": 1613409,
+        "location": "Westgate",
+        "parameter": "temperature",
+        "value": 70.03333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.73818,
+        "longitude": -124.16723
+    },
+    {
+        "id": 79428,
+        "location": "62 La Salle",
+        "parameter": "temperature",
+        "value": 78.68181818181819,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.81655,
+        "longitude": -122.22006
+    },
+    {
+        "id": 66839,
+        "location": "Sutter View",
+        "parameter": "temperature",
+        "value": 96.71428571428571,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.855408,
+        "longitude": -121.2607
+    },
+    {
+        "id": 1613583,
+        "location": "Claremont Ave and Olive Ave",
+        "parameter": "temperature",
+        "value": 96.46153846153847,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.93963,
+        "longitude": -122.31052
+    },
+    {
+        "id": 1613602,
+        "location": "Sawyers Bar (Siskiyou Telephone)",
+        "parameter": "temperature",
+        "value": 85.52631578947368,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.30197,
+        "longitude": -123.12985
+    },
+    {
+        "id": 76663,
+        "location": "Woodside Rick",
+        "parameter": "temperature",
+        "value": 83.28571428571429,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.430634,
+        "longitude": -122.26619
+    },
+    {
+        "id": 73280,
+        "location": "Hill and Noe",
+        "parameter": "temperature",
+        "value": 79.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.755615,
+        "longitude": -122.43279
+    },
+    {
+        "id": 1613807,
+        "location": "Ettersburg Rd",
+        "parameter": "temperature",
+        "value": 71.0952380952381,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.113873,
+        "longitude": -123.96704
+    },
+    {
+        "id": 236113,
+        "location": "Outside - Baytree",
+        "parameter": "temperature",
+        "value": 83.82142857142857,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.499035,
+        "longitude": -122.25999
+    },
+    {
+        "id": 70724,
+        "location": "Farmer Street",
+        "parameter": "temperature",
+        "value": 87.63157894736842,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.055912,
+        "longitude": -122.076164
+    },
+    {
+        "id": 233550,
+        "location": "Birchville",
+        "parameter": "temperature",
+        "value": 82.47619047619048,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.334873,
+        "longitude": -121.14594
+    },
+    {
+        "id": 1614484,
+        "location": "452 Strawberry Lane Ashland Oregon",
+        "parameter": "temperature",
+        "value": 70.8,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.19473,
+        "longitude": -122.725945
+    },
+    {
+        "id": 1614483,
+        "location": "EverGreen Observatory",
+        "parameter": "temperature",
+        "value": 76.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -6.856647,
+        "longitude": 107.54536
+    },
+    {
+        "id": 358007,
+        "location": "Petaluma Western Ave gopher farm",
+        "parameter": "temperature",
+        "value": 107.52631578947368,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.224335,
+        "longitude": -122.6668
+    },
+    {
+        "id": 1616223,
+        "location": "Bulgaria, Sofia, Darvenitsa",
+        "parameter": "temperature",
+        "value": 15.599833333333335,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.6695,
+        "longitude": 23.359
+    },
+    {
+        "id": 1616552,
+        "location": "Riverside",
+        "parameter": "temperature",
+        "value": 61.03333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 53.96362,
+        "longitude": -122.838104
+    },
+    {
+        "id": 67805,
+        "location": "Hayward hills",
+        "parameter": "temperature",
+        "value": 86.6923076923077,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.667027,
+        "longitude": -122.07687
+    },
+    {
+        "id": 1616940,
+        "location": "443 Shepherd Ave",
+        "parameter": "temperature",
+        "value": 83.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.312866,
+        "longitude": -121.89442
+    },
+    {
+        "id": 1609671,
+        "location": "Falcon Pointe Soccer Field",
+        "parameter": "temperature",
+        "value": 104.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 30.47187,
+        "longitude": -97.58414
+    },
+    {
+        "id": 1609667,
+        "location": "SCAP_103",
+        "parameter": "temperature",
+        "value": 85.6923076923077,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.04387,
+        "longitude": -118.145515
+    },
+    {
+        "id": 64865,
+        "location": "Vendola marsh",
+        "parameter": "temperature",
+        "value": 81.42857142857143,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.01441,
+        "longitude": -122.517395
+    },
+    {
+        "id": 66968,
+        "location": "ARROYO CROSSINGS",
+        "parameter": "temperature",
+        "value": 109.5,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.670395,
+        "longitude": -121.76678
+    },
+    {
+        "id": 1609690,
+        "location": "Shoup Park",
+        "parameter": "temperature",
+        "value": 100.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.37622,
+        "longitude": -122.11892
+    },
+    {
+        "id": 1609693,
+        "location": "Lyell st Los Altos",
+        "parameter": "temperature",
+        "value": 90.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.37557,
+        "longitude": -122.11251
+    },
+    {
+        "id": 235387,
+        "location": "35 Whitehall Drive",
+        "parameter": "temperature",
+        "value": 92.19047619047619,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.847115,
+        "longitude": -122.148476
+    },
+    {
+        "id": 73724,
+        "location": "Valley @ Castro",
+        "parameter": "temperature",
+        "value": 73.05263157894737,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.744133,
+        "longitude": -122.433365
+    },
+    {
+        "id": 69344,
+        "location": "Sherwick Dr",
+        "parameter": "temperature",
+        "value": 85.42857142857143,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.855644,
+        "longitude": -122.22236
+    },
+    {
+        "id": 1610190,
+        "location": "Boulevard - Downing",
+        "parameter": "temperature",
+        "value": 87.15789473684211,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.710506,
+        "longitude": -121.894455
+    },
+    {
+        "id": 1610192,
+        "location": "587 Periwinkle Place, Benicia, CA",
+        "parameter": "temperature",
+        "value": 94.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.087288,
+        "longitude": -122.1651
+    },
+    {
+        "id": 1610368,
+        "location": "Engle 40",
+        "parameter": "temperature",
+        "value": 70.23333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.659107,
+        "longitude": -80.399315
+    },
+    {
+        "id": 1610547,
+        "location": "Hacienda Mundhenk",
+        "parameter": "temperature",
+        "value": 93.85,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.956547,
+        "longitude": -121.79616
+    },
+    {
+        "id": 73109,
+        "location": "Harbor Pegasus Racing",
+        "parameter": "temperature",
+        "value": 81.76666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.96654,
+        "longitude": -122.00283
+    },
+    {
+        "id": 1610901,
+        "location": "The Island, Logan Utah",
+        "parameter": "temperature",
+        "value": 74.63333333333334,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.73508,
+        "longitude": -111.81435
+    },
+    {
+        "id": 1611977,
+        "location": "Tiputini Lab",
+        "parameter": "temperature",
+        "value": 88.0909090909091,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -0.637109,
+        "longitude": -76.15
+    },
+    {
+        "id": 1612494,
+        "location": "Driftwood",
+        "parameter": "temperature",
+        "value": 92.63157894736842,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 33.97727,
+        "longitude": -118.46419
+    },
+    {
+        "id": 1612495,
+        "location": "HundiVistaTowers",
         "parameter": "temperature",
         "value": 82.33333333333333,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 88.4074074074074,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 71.03703703703704,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 87.03333333333333,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 24.615000247955322,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 37.984596,
+        "longitude": -122.530914
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 1612674,
+        "location": "BT_SPNGFLD_OUT_1",
         "parameter": "temperature",
-        "value": 26.0951189994812,
+        "value": 77.0,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 44.05168,
+        "longitude": -122.93881
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 1612687,
+        "location": "The Tree House",
         "parameter": "temperature",
-        "value": 84.7,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 85.29411764705883,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 91.6086956521739,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 72.12,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 88.83333333333333,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 24.8413241704305,
+        "value": 79.78947368421052,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 37.433784,
+        "longitude": -122.431984
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 1612721,
+        "location": "Milvia Parker",
         "parameter": "temperature",
-        "value": 26.706175804138184,
+        "value": 86.13333333333334,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 37.861958,
+        "longitude": -122.26988
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 1608912,
+        "location": "Winfield Villa",
         "parameter": "temperature",
-        "value": 83.92857142857143,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 87.94117647058823,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 93.36363636363636,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 71.36363636363636,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 88.3,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 24.248764991760254,
+        "value": 101.88888888888889,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 33.786446,
+        "longitude": -111.91957
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 1608929,
+        "location": "Site 051 - Kovach Park",
         "parameter": "temperature",
-        "value": 27.16842238108317,
+        "value": 69.9,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 50.9873,
+        "longitude": -118.19198
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 1609099,
+        "location": "Spikehorn Creek",
         "parameter": "temperature",
-        "value": 82.11538461538461,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
-    },
-    {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
-        "parameter": "temperature",
-        "value": 86.95238095238095,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 93.63333333333334,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 71.0,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 87.03333333333333,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 23.30101188023885,
+        "value": 74.84210526315789,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 45.735657,
+        "longitude": -87.91657
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 1609102,
+        "location": "Alphonse",
         "parameter": "temperature",
-        "value": 26.719985167185467,
+        "value": 89.14814814814815,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 34.427845,
+        "longitude": -119.686646
     },
     {
-        "id": 65677,
-        "location": "Vienna-1210",
+        "id": 332087,
+        "location": "Camp Nauvoo",
         "parameter": "temperature",
-        "value": 79.07142857142857,
+        "value": 80.0,
         "entity": "Community Organization",
         "sensorType": "low-cost sensor",
-        "latitude": 48.250916,
-        "longitude": 16.408842
+        "latitude": 38.712406,
+        "longitude": -120.74747
     },
     {
-        "id": 71394,
-        "location": "Neudorf im Weinviertel",
+        "id": 1609105,
+        "location": "Harden-S",
         "parameter": "temperature",
-        "value": 84.5,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.733124,
-        "longitude": 16.514898
-    },
-    {
-        "id": 67057,
-        "location": "INOEAUST1",
-        "parameter": "temperature",
-        "value": 90.84,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.015278,
-        "longitude": 16.232779
-    },
-    {
-        "id": 67102,
-        "location": "ITIROLAX2",
-        "parameter": "temperature",
-        "value": 69.42857142857143,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 47.225925,
-        "longitude": 11.288186
-    },
-    {
-        "id": 68158,
-        "location": "Wetterstation Gern",
-        "parameter": "temperature",
-        "value": 86.8,
-        "entity": "Community Organization",
-        "sensorType": "low-cost sensor",
-        "latitude": 48.084812,
-        "longitude": 15.833893
-    },
-    {
-        "id": 1532675,
-        "location": "Kloburg am \u00d6lberg",
-        "parameter": "temperature",
-        "value": 21.84950892130534,
+        "value": 72.13333333333334,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 48.3092726,
-        "longitude": 16.2999059
+        "latitude": 45.73275,
+        "longitude": -107.56128
     },
     {
-        "id": 1416987,
-        "location": "Schottergrube",
+        "id": 1609117,
+        "location": "Santa Clara",
         "parameter": "temperature",
-        "value": 25.552306334177654,
+        "value": 82.6842105263158,
         "entity": "Person",
         "sensorType": "low-cost sensor",
-        "latitude": 47.727579,
-        "longitude": 16.106267
+        "latitude": 37.34613,
+        "longitude": -121.974815
+    },
+    {
+        "id": 1609095,
+        "location": "North Rim Grand Canyon",
+        "parameter": "temperature",
+        "value": 78.53333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.21458,
+        "longitude": -112.06143
+    },
+    {
+        "id": 1609269,
+        "location": "Boathouse - City of New Haven",
+        "parameter": "temperature",
+        "value": 66.42105263157895,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.296,
+        "longitude": -72.91558
+    },
+    {
+        "id": 66959,
+        "location": "53rd &amp; I Street",
+        "parameter": "temperature",
+        "value": 90.7,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.567196,
+        "longitude": -121.43764
+    },
+    {
+        "id": 1609284,
+        "location": "Hardin #2",
+        "parameter": "temperature",
+        "value": 73.1,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.72115,
+        "longitude": -107.54189
+    },
+    {
+        "id": 1609321,
+        "location": "Sherwood Forest",
+        "parameter": "temperature",
+        "value": 99.45454545454545,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.73721,
+        "longitude": -122.45552
+    },
+    {
+        "id": 1609473,
+        "location": "Sublette County Public Health",
+        "parameter": "temperature",
+        "value": 77.52631578947368,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.86987,
+        "longitude": -109.8563
+    },
+    {
+        "id": 1609471,
+        "location": "Mason Lake East",
+        "parameter": "temperature",
+        "value": 66.5,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.346092,
+        "longitude": -122.9375
+    },
+    {
+        "id": 1609484,
+        "location": "NWX",
+        "parameter": "temperature",
+        "value": 63.714285714285715,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.06105,
+        "longitude": -121.35018
+    },
+    {
+        "id": 1609507,
+        "location": "150 Parker Ave.",
+        "parameter": "temperature",
+        "value": 80.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.7828,
+        "longitude": -122.4542
+    },
+    {
+        "id": 1609510,
+        "location": "Ohlone",
+        "parameter": "temperature",
+        "value": 77.6,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.46592,
+        "longitude": -121.79565
+    },
+    {
+        "id": 1608937,
+        "location": "LVEJO-R1",
+        "parameter": "temperature",
+        "value": 71.10526315789474,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.83401,
+        "longitude": -87.71916
+    },
+    {
+        "id": 63403,
+        "location": "Shadow Creek",
+        "parameter": "temperature",
+        "value": 83.9,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.80434,
+        "longitude": -121.89188
+    },
+    {
+        "id": 1605833,
+        "location": "Wyola - J",
+        "parameter": "temperature",
+        "value": 75.45454545454545,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.139732,
+        "longitude": -107.386894
+    },
+    {
+        "id": 1605991,
+        "location": "Melba near shops",
+        "parameter": "temperature",
+        "value": 67.58333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -35.208706,
+        "longitude": 149.0502
+    },
+    {
+        "id": 69498,
+        "location": "Western Hills Garden",
+        "parameter": "temperature",
+        "value": 77.63157894736842,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.413376,
+        "longitude": -122.971405
+    },
+    {
+        "id": 1606008,
+        "location": "GH",
+        "parameter": "temperature",
+        "value": 79.06666666666666,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.820644,
+        "longitude": -121.4677
+    },
+    {
+        "id": 68369,
+        "location": "Tsasdi Resort",
+        "parameter": "temperature",
+        "value": 89.6842105263158,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.865314,
+        "longitude": -122.395805
+    },
+    {
+        "id": 1607816,
+        "location": "KING STREET",
+        "parameter": "temperature",
+        "value": 62.666666666666664,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 53.740128,
+        "longitude": -2.029649
+    },
+    {
+        "id": 227204,
+        "location": "FAS-Ar",
+        "parameter": "temperature",
+        "value": 89.7,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": -3.074871,
+        "longitude": -60.008675
+    },
+    {
+        "id": 1607833,
+        "location": "Alhambra Valley",
+        "parameter": "temperature",
+        "value": 87.66666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.96757,
+        "longitude": -122.1388
+    },
+    {
+        "id": 353035,
+        "location": "SHL0016",
+        "parameter": "temperature",
+        "value": 75.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 46.799522,
+        "longitude": -114.05929
+    },
+    {
+        "id": 221159,
+        "location": "Forge road",
+        "parameter": "temperature",
+        "value": 78.57692307692308,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.526337,
+        "longitude": -122.35216
+    },
+    {
+        "id": 72160,
+        "location": "Murple",
+        "parameter": "temperature",
+        "value": 88.21052631578948,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.79896,
+        "longitude": -122.20467
+    },
+    {
+        "id": 1608194,
+        "location": "Twin Oaks",
+        "parameter": "temperature",
+        "value": 96.06666666666666,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.465252,
+        "longitude": -96.095406
+    },
+    {
+        "id": 71611,
+        "location": "SciTeach6",
+        "parameter": "temperature",
+        "value": 90.53846153846153,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.237896,
+        "longitude": -121.93577
+    },
+    {
+        "id": 1608355,
+        "location": "Boyer Outside",
+        "parameter": "temperature",
+        "value": 85.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.22668,
+        "longitude": -121.97852
+    },
+    {
+        "id": 66379,
+        "location": "Visalia",
+        "parameter": "temperature",
+        "value": 78.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.898285,
+        "longitude": -122.28661
+    },
+    {
+        "id": 1608556,
+        "location": "Admin building",
+        "parameter": "temperature",
+        "value": 61.93333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 48.05392,
+        "longitude": -122.25712
+    },
+    {
+        "id": 70512,
+        "location": "Plantains",
+        "parameter": "temperature",
+        "value": 84.6,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.56163,
+        "longitude": -121.43347
+    },
+    {
+        "id": 65663,
+        "location": "Worchester Ct.",
+        "parameter": "temperature",
+        "value": 90.7,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.87671,
+        "longitude": -122.02225
+    },
+    {
+        "id": 1608561,
+        "location": "John",
+        "parameter": "temperature",
+        "value": 70.46666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.60124,
+        "longitude": -107.461624
+    },
+    {
+        "id": 1608723,
+        "location": "Brookline ave",
+        "parameter": "temperature",
+        "value": 81.28571428571429,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.883575,
+        "longitude": -122.54379
+    },
+    {
+        "id": 1608749,
+        "location": "AQSU-0095",
+        "parameter": "temperature",
+        "value": 72.42857142857143,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 53.528927,
+        "longitude": -113.415825
+    },
+    {
+        "id": 1608906,
+        "location": "Courtyard",
+        "parameter": "temperature",
+        "value": 64.77777777777777,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 48.06689,
+        "longitude": -122.28395
+    },
+    {
+        "id": 69248,
+        "location": "Pine/Buchanan",
+        "parameter": "temperature",
+        "value": 78.9047619047619,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.7883,
+        "longitude": -122.43035
+    },
+    {
+        "id": 1608910,
+        "location": "Crow Agency - SF",
+        "parameter": "temperature",
+        "value": 71.16666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.60997,
+        "longitude": -107.4691
+    },
+    {
+        "id": 1604688,
+        "location": "Hillcrest Middle School",
+        "parameter": "temperature",
+        "value": 83.1,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.369637,
+        "longitude": -122.80585
+    },
+    {
+        "id": 1604699,
+        "location": "Off Campus (UAlbany Alumni Quad)",
+        "parameter": "temperature",
+        "value": 80.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.662586,
+        "longitude": -73.77902
+    },
+    {
+        "id": 71869,
+        "location": "The Cove",
+        "parameter": "temperature",
+        "value": 68.88888888888889,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.54027,
+        "longitude": -122.51627
+    },
+    {
+        "id": 1604885,
+        "location": "City Hall Complex",
+        "parameter": "temperature",
+        "value": 80.54166666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.5822,
+        "longitude": -121.49362
+    },
+    {
+        "id": 1604892,
+        "location": "Crescent Road West",
+        "parameter": "temperature",
+        "value": 70.26666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 49.96781,
+        "longitude": -98.31702
+    },
+    {
+        "id": 64838,
+        "location": "La Rinconada Country Club",
+        "parameter": "temperature",
+        "value": 90.26315789473684,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.24939,
+        "longitude": -121.97566
+    },
+    {
+        "id": 1605067,
+        "location": "Calle Hermosa",
+        "parameter": "temperature",
+        "value": 91.3076923076923,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.13862,
+        "longitude": -121.653336
+    },
+    {
+        "id": 1605074,
+        "location": "Moccasin Schoolhouse 2",
+        "parameter": "temperature",
+        "value": 101.85,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.811817,
+        "longitude": -120.3016
+    },
+    {
+        "id": 63358,
+        "location": "Fairway Dr.",
+        "parameter": "temperature",
+        "value": 84.52631578947368,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.975563,
+        "longitude": -122.503586
+    },
+    {
+        "id": 1605103,
+        "location": "Westdale NW",
+        "parameter": "temperature",
+        "value": 81.58620689655173,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.06168,
+        "longitude": -122.145004
+    },
+    {
+        "id": 233809,
+        "location": "Regal Rd Berkeley",
+        "parameter": "temperature",
+        "value": 81.96666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.894516,
+        "longitude": -122.26549
+    },
+    {
+        "id": 233366,
+        "location": "Upper Ellen",
+        "parameter": "temperature",
+        "value": 78.54545454545455,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.14251,
+        "longitude": -122.015015
+    },
+    {
+        "id": 1605293,
+        "location": "Quartz Valley Indian Reservation",
+        "parameter": "temperature",
+        "value": 82.82758620689656,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.60151,
+        "longitude": -122.9759
+    },
+    {
+        "id": 1605299,
+        "location": "NW Skyline",
+        "parameter": "temperature",
+        "value": 71.42857142857143,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.6253,
+        "longitude": -122.883705
+    },
+    {
+        "id": 232730,
+        "location": "Lafayette",
+        "parameter": "temperature",
+        "value": 87.78947368421052,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.89069,
+        "longitude": -122.12147
+    },
+    {
+        "id": 1605458,
+        "location": "SCAP_99",
+        "parameter": "temperature",
+        "value": 88.42105263157895,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.076893,
+        "longitude": -118.11532
+    },
+    {
+        "id": 1605463,
+        "location": "Baywood Estates",
+        "parameter": "temperature",
+        "value": 67.83333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.83928,
+        "longitude": -124.048515
+    },
+    {
+        "id": 233770,
+        "location": "Rancho Divas",
+        "parameter": "temperature",
+        "value": 83.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.903843,
+        "longitude": -122.15588
+    },
+    {
+        "id": 233254,
+        "location": "Greenwood Cove",
+        "parameter": "temperature",
+        "value": 84.33333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.897346,
+        "longitude": -122.49926
+    },
+    {
+        "id": 67640,
+        "location": "Teahouse",
+        "parameter": "temperature",
+        "value": 84.55172413793103,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.04903,
+        "longitude": -122.02667
+    },
+    {
+        "id": 1605640,
+        "location": "Outside",
+        "parameter": "temperature",
+        "value": 83.86666666666666,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.828777,
+        "longitude": -122.11275
+    },
+    {
+        "id": 1605646,
+        "location": "North End Boise",
+        "parameter": "temperature",
+        "value": 74.88235294117646,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.6301,
+        "longitude": -116.20781
+    },
+    {
+        "id": 1605650,
+        "location": "Newhall Park",
+        "parameter": "temperature",
+        "value": 87.4,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.956696,
+        "longitude": -121.978905
+    },
+    {
+        "id": 313131,
+        "location": "Purple Vortex",
+        "parameter": "temperature",
+        "value": 88.6896551724138,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.916283,
+        "longitude": -121.99558
+    },
+    {
+        "id": 232686,
+        "location": "PTL",
+        "parameter": "temperature",
+        "value": 89.82758620689656,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.056324,
+        "longitude": -122.15694
+    },
+    {
+        "id": 1603710,
+        "location": "UEA_EducAIR_14",
+        "parameter": "temperature",
+        "value": 91.79310344827586,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -3.073211,
+        "longitude": -59.993156
+    },
+    {
+        "id": 66713,
+        "location": "Cornell--garage",
+        "parameter": "temperature",
+        "value": 85.43333333333334,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.891037,
+        "longitude": -122.29623
+    },
+    {
+        "id": 68510,
+        "location": "Camden Near Butcher Park",
+        "parameter": "temperature",
+        "value": 86.9,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.2575,
+        "longitude": -121.915924
+    },
+    {
+        "id": 62868,
+        "location": "FITZGERALD 1",
+        "parameter": "temperature",
+        "value": 68.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.524395,
+        "longitude": -122.51524
+    },
+    {
+        "id": 229793,
+        "location": "SacRo",
+        "parameter": "temperature",
+        "value": 80.14285714285714,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.877766,
+        "longitude": -122.2828
+    },
+    {
+        "id": 218475,
+        "location": "House",
+        "parameter": "temperature",
+        "value": 77.16666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.008663,
+        "longitude": -122.615005
+    },
+    {
+        "id": 234526,
+        "location": "Patio",
+        "parameter": "temperature",
+        "value": 91.21052631578948,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.692734,
+        "longitude": -121.19308
+    },
+    {
+        "id": 1603946,
+        "location": "CORMK Carrol lakes",
+        "parameter": "temperature",
+        "value": 72.9,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.019234,
+        "longitude": -104.98468
+    },
+    {
+        "id": 1604088,
+        "location": "CAP_Maio",
+        "parameter": "temperature",
+        "value": 100.73684210526316,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.310806,
+        "longitude": -104.63573
+    },
+    {
+        "id": 68587,
+        "location": "Sierra Ventura-Los Altos",
+        "parameter": "temperature",
+        "value": 93.84210526315789,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.33725,
+        "longitude": -122.08018
+    },
+    {
+        "id": 1604103,
+        "location": "SP House",
+        "parameter": "temperature",
+        "value": 65.93333333333334,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.545425,
+        "longitude": -122.26693
+    },
+    {
+        "id": 1604100,
+        "location": "Fox Hollow Equestrian Center",
+        "parameter": "temperature",
+        "value": 90.89655172413794,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.80185,
+        "longitude": -121.84915
+    },
+    {
+        "id": 1604116,
+        "location": "Colonial Heights - 56th St",
+        "parameter": "temperature",
+        "value": 90.19047619047619,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.536163,
+        "longitude": -121.440994
+    },
+    {
+        "id": 1604124,
+        "location": "Blue Lake Elementary Outside",
+        "parameter": "temperature",
+        "value": 86.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.885563,
+        "longitude": -123.99171
+    },
+    {
+        "id": 72338,
+        "location": "Corner LPW and MT Bache",
+        "parameter": "temperature",
+        "value": 80.73333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.10502,
+        "longitude": -121.890755
+    },
+    {
+        "id": 231034,
+        "location": "Darioush",
+        "parameter": "temperature",
+        "value": 86.86666666666666,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.36806,
+        "longitude": -122.29468
+    },
+    {
+        "id": 1604319,
+        "location": "San Juan Canyon",
+        "parameter": "temperature",
+        "value": 85.76190476190476,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 36.802635,
+        "longitude": -121.49687
+    },
+    {
+        "id": 1604465,
+        "location": "Jomark Ln",
+        "parameter": "temperature",
+        "value": 86.03571428571429,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.40937,
+        "longitude": -122.94901
+    },
+    {
+        "id": 358055,
+        "location": "SPUR Urban Center",
+        "parameter": "temperature",
+        "value": 81.61904761904762,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.787178,
+        "longitude": -122.401245
+    },
+    {
+        "id": 1604484,
+        "location": "Wellesley sve",
+        "parameter": "temperature",
+        "value": 81.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.882244,
+        "longitude": -122.535934
+    },
+    {
+        "id": 1604485,
+        "location": "Buford",
+        "parameter": "temperature",
+        "value": 94.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.081676,
+        "longitude": -84.037636
+    },
+    {
+        "id": 221077,
+        "location": "Western Air Temple",
+        "parameter": "temperature",
+        "value": 83.6842105263158,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.55692,
+        "longitude": -122.315
+    },
+    {
+        "id": 1604652,
+        "location": "ETEC Parking Lot",
+        "parameter": "temperature",
+        "value": 79.28571428571429,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 42.68206,
+        "longitude": -73.81448
+    },
+    {
+        "id": 1600721,
+        "location": "Huffman House- 6 Flex",
+        "parameter": "temperature",
+        "value": 92.45454545454545,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.57848,
+        "longitude": -104.87571
+    },
+    {
+        "id": 1600864,
+        "location": "Upper Caperton",
+        "parameter": "temperature",
+        "value": 79.23809523809524,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.822166,
+        "longitude": -122.22748
+    },
+    {
+        "id": 1600885,
+        "location": "Huffman house 5",
+        "parameter": "temperature",
+        "value": 89.54545454545455,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.574512,
+        "longitude": -104.87434
+    },
+    {
+        "id": 1600900,
+        "location": "Huffman house 3",
+        "parameter": "temperature",
+        "value": 89.52631578947368,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.5888,
+        "longitude": -104.88326
+    },
+    {
+        "id": 1601042,
+        "location": "Huffman house 1",
+        "parameter": "temperature",
+        "value": 91.03846153846153,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.58721,
+        "longitude": -104.87983
+    },
+    {
+        "id": 78618,
+        "location": "Treehouse Porch",
+        "parameter": "temperature",
+        "value": 103.6,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.11095,
+        "longitude": -122.52794
+    },
+    {
+        "id": 426687,
+        "location": "Harvey Bear",
+        "parameter": "temperature",
+        "value": 97.55,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.068314,
+        "longitude": -121.52219
+    },
+    {
+        "id": 1601065,
+        "location": "1964 Kingfisher",
+        "parameter": "temperature",
+        "value": 71.72413793103448,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 44.25759,
+        "longitude": -121.25362
+    },
+    {
+        "id": 1601066,
+        "location": "Alex Huffman",
+        "parameter": "temperature",
+        "value": 91.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.578747,
+        "longitude": -104.87674
+    },
+    {
+        "id": 1601202,
+        "location": "Brookside",
+        "parameter": "temperature",
+        "value": 90.3125,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.80525,
+        "longitude": -121.98232
+    },
+    {
+        "id": 1601222,
+        "location": "SW-IFL N PHX",
+        "parameter": "temperature",
+        "value": 108.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 33.624702,
+        "longitude": -112.12462
+    },
+    {
+        "id": 1601224,
+        "location": "Edwards",
+        "parameter": "temperature",
+        "value": 85.05263157894737,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.453392,
+        "longitude": -122.20324
+    },
+    {
+        "id": 1601234,
+        "location": "Yard",
+        "parameter": "temperature",
+        "value": 87.27272727272727,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.67245,
+        "longitude": -121.91022
+    },
+    {
+        "id": 1601411,
+        "location": "Callahan USFS",
+        "parameter": "temperature",
+        "value": 78.6842105263158,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 41.307102,
+        "longitude": -122.79668
+    },
+    {
+        "id": 1601416,
+        "location": "Caringbah NSW",
+        "parameter": "temperature",
+        "value": 20.40416669845581,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -34.0467846944686,
+        "longitude": 151.1229561199615
+    },
+    {
+        "id": 1601414,
+        "location": "Caringbah NSW",
+        "parameter": "temperature",
+        "value": 18.92101828257243,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -34.0467846944686,
+        "longitude": 151.1229561199615
+    },
+    {
+        "id": 1601419,
+        "location": "Megatron",
+        "parameter": "temperature",
+        "value": 62.77777777777778,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 47.79632,
+        "longitude": -120.62684
+    },
+    {
+        "id": 73735,
+        "location": "7500 Altura",
+        "parameter": "temperature",
+        "value": 83.46666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.776814,
+        "longitude": -122.15841
+    },
+    {
+        "id": 1603029,
+        "location": "CHGC",
+        "parameter": "temperature",
+        "value": 95.4,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.16948,
+        "longitude": -121.750885
+    },
+    {
+        "id": 1603532,
+        "location": "UNSA-2-AREQUIPA",
+        "parameter": "temperature",
+        "value": 76.9090909090909,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": -16.353083,
+        "longitude": -71.59514
+    },
+    {
+        "id": 1603548,
+        "location": "AV-13-7DE7",
+        "parameter": "temperature",
+        "value": 76.16666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.047142,
+        "longitude": -84.494965
+    },
+    {
+        "id": 1599943,
+        "location": "Escambia County - Century - Lake Stone Campground",
+        "parameter": "temperature",
+        "value": 85.78947368421052,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 30.96993,
+        "longitude": -87.294106
+    },
+    {
+        "id": 1599948,
+        "location": "Escambia County - Molino Fire Rescue - Station #18",
+        "parameter": "temperature",
+        "value": 84.47368421052632,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 30.716515,
+        "longitude": -87.34404
+    },
+    {
+        "id": 233458,
+        "location": "Lower Los Trancos Woods Outside, Portola Valley CA",
+        "parameter": "temperature",
+        "value": 95.6842105263158,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.351067,
+        "longitude": -122.198044
+    },
+    {
+        "id": 276775,
+        "location": "Core Equestrian Barn",
+        "parameter": "temperature",
+        "value": 92.03448275862068,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.42159,
+        "longitude": -122.2363
+    },
+    {
+        "id": 273428,
+        "location": "PAS_Irvine(AQSU-E313)",
+        "parameter": "temperature",
+        "value": 72.0,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 49.96005,
+        "longitude": -110.273254
+    },
+    {
+        "id": 1600119,
+        "location": "FNHA_22DC",
+        "parameter": "temperature",
+        "value": 76.05263157894737,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 54.98453,
+        "longitude": -123.049545
+    },
+    {
+        "id": 383257,
+        "location": "ACA_Wetaskiwin (AQSU-708E)",
+        "parameter": "temperature",
+        "value": 59.92307692307692,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 52.978676,
+        "longitude": -113.38429
+    },
+    {
+        "id": 1600300,
+        "location": "Highland Oaks",
+        "parameter": "temperature",
+        "value": 97.6842105263158,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 33.45469,
+        "longitude": -101.9288
+    },
+    {
+        "id": 1600305,
+        "location": "K7BC West Springfield, VA",
+        "parameter": "temperature",
+        "value": 83.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 38.76475,
+        "longitude": -77.244125
+    },
+    {
+        "id": 1600306,
+        "location": "La Quinta Santa Rosa Cove",
+        "parameter": "temperature",
+        "value": 109.3,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 33.689987,
+        "longitude": -116.318634
+    },
+    {
+        "id": 63294,
+        "location": "Jack's House",
+        "parameter": "temperature",
+        "value": 88.57692307692308,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.97246,
+        "longitude": -122.50989
+    },
+    {
+        "id": 1600473,
+        "location": "Bordentown City, NJ",
+        "parameter": "temperature",
+        "value": 67.9047619047619,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 40.14379,
+        "longitude": -74.71091
+    },
+    {
+        "id": 1600508,
+        "location": "BBC1",
+        "parameter": "temperature",
+        "value": 75.76190476190476,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 45.921745,
+        "longitude": -119.23505
+    },
+    {
+        "id": 1600516,
+        "location": "Enterprise Rancheria WSMART065",
+        "parameter": "temperature",
+        "value": 81.875,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.476933,
+        "longitude": -121.54736
+    },
+    {
+        "id": 268099,
+        "location": "BT1",
+        "parameter": "temperature",
+        "value": 78.68,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.839436,
+        "longitude": -122.21624
+    },
+    {
+        "id": 1600678,
+        "location": "Huffman Home- 2 Flex",
+        "parameter": "temperature",
+        "value": 92.14285714285714,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.58086,
+        "longitude": -104.87726
+    },
+    {
+        "id": 1600682,
+        "location": "Hudson at Mendell",
+        "parameter": "temperature",
+        "value": 80.17241379310344,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.739586,
+        "longitude": -122.386925
+    },
+    {
+        "id": 234452,
+        "location": "Outer Sunset Great Highway",
+        "parameter": "temperature",
+        "value": 71.42105263157895,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.755512,
+        "longitude": -122.50838
+    },
+    {
+        "id": 1600704,
+        "location": "Huffman house 4",
+        "parameter": "temperature",
+        "value": 92.3,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.57848,
+        "longitude": -104.876396
+    },
+    {
+        "id": 1600720,
+        "location": "Colegio Liceo",
+        "parameter": "temperature",
+        "value": 100.33333333333333,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 22.898783,
+        "longitude": -109.92157
+    },
+    {
+        "id": 1599519,
+        "location": "Oak Manor Elementary",
+        "parameter": "temperature",
+        "value": 81.85714285714286,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 39.14821,
+        "longitude": -123.19366
+    },
+    {
+        "id": 1599521,
+        "location": "Cinnabar St",
+        "parameter": "temperature",
+        "value": 91.66666666666667,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.33464,
+        "longitude": -121.90902
+    },
+    {
+        "id": 71626,
+        "location": "Monticello",
+        "parameter": "temperature",
+        "value": 73.60714285714286,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.722443,
+        "longitude": -122.47051
+    },
+    {
+        "id": 234507,
+        "location": "Kleine Schule Oakland",
+        "parameter": "temperature",
+        "value": 91.66666666666667,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.80235,
+        "longitude": -122.20251
+    },
+    {
+        "id": 236183,
+        "location": "Scott Street",
+        "parameter": "temperature",
+        "value": 81.3076923076923,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.53428,
+        "longitude": -121.92631
+    },
+    {
+        "id": 268656,
+        "location": "ST. JAMES PRESCHOOL",
+        "parameter": "temperature",
+        "value": 75.45,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.784958,
+        "longitude": -122.46722
+    },
+    {
+        "id": 1599543,
+        "location": "Newark Memorial High School - outside",
+        "parameter": "temperature",
+        "value": 76.38095238095238,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.52154,
+        "longitude": -122.00243
+    },
+    {
+        "id": 233041,
+        "location": "Montara home",
+        "parameter": "temperature",
+        "value": 66.4074074074074,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.540665,
+        "longitude": -122.51418
+    },
+    {
+        "id": 231606,
+        "location": "CHC Palo Alto",
+        "parameter": "temperature",
+        "value": 84.37931034482759,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.440105,
+        "longitude": -122.178505
+    },
+    {
+        "id": 234772,
+        "location": "Chrysopolis",
+        "parameter": "temperature",
+        "value": 80.25,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.55903,
+        "longitude": -122.2595
+    },
+    {
+        "id": 1599727,
+        "location": "CEEP at Star",
+        "parameter": "temperature",
+        "value": 90.0,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.781902,
+        "longitude": -122.46712
+    },
+    {
+        "id": 575833,
+        "location": "PAS_Foremost(AQSU-0E7F)",
+        "parameter": "temperature",
+        "value": 66.84615384615384,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 49.476425,
+        "longitude": -111.44159
+    },
+    {
+        "id": 1599747,
+        "location": "Caldwell",
+        "parameter": "temperature",
+        "value": 76.80952380952381,
+        "entity": "Person",
+        "sensorType": "low-cost sensor",
+        "latitude": 43.640015,
+        "longitude": -116.71441
+    },
+    {
+        "id": 64069,
+        "location": "Ohlone College, Fremont, East",
+        "parameter": "temperature",
+        "value": 94.61904761904762,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 37.53146,
+        "longitude": -121.91137
+    },
+    {
+        "id": 269783,
+        "location": "Granite Dells",
+        "parameter": "temperature",
+        "value": 99.33333333333333,
+        "entity": "Community Organization",
+        "sensorType": "low-cost sensor",
+        "latitude": 34.239258,
+        "longitude": -111.308136
     }
 ]

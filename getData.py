@@ -2,8 +2,7 @@ import requests
 import json
 country_code = "ME"
 
-url = "https://api.openaq.org/v2/measurements?date_to=2023-09-29T00%3A19%3A00Z&limit=100&page=1&offset=0&sort=desc&parameter=temperature&radius=1000&country=AT&order_by=datetime"
-
+url = "https://api.openaq.org/v2/measurements?date_from=2000-01-01T00%3A00%3A00Z&date_to=2023-09-29T00%3A19%3A00Z&limit=400&page=1&offset=0&sort=desc&parameter=temperature&radius=1000&order_by=datetime"
 headers = {"Accept": "application/json"}
 
 response = requests.get(url, headers=headers)

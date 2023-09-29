@@ -1,4 +1,43 @@
+
+import matplotlib.pyplot as plt
+import numpy as np
 import networkx as nx
+import pandas as pd
+
+# Função utilizada para encontrar os vizinhos dos nós de um grafo e retorna essa informação na forma de dicionário
+def pegar_vizinhos(grafo):
+  vizinhos = {}
+  for n in grafo:
+    vizinhos[n] = list(grafo.neighbors(n))
+  
+  return vizinhos
+
+# Função para criar um grafo a partir dos grupos de nós (comunidades) e dos vizinhos do grafo original
+def criarGrafo(vizinhos, grupo_de_nos):
+  novos_grafos = []
+
+  for x in range(len(grupo_de_nos)):
+    grupo = grupo_de_nos[x]
+    novo_grafo = nx.Graph()
+    for no in grupo:
+      lista_de_vizinhos_no = vizinhos[no]
+      for v in lista_de_vizinhos_no:
+        if (v in grupo):
+          novo_grafo.add_edge(no, v)
+    novos_grafos.append(novo_grafo)
+
+  return novos_grafos
+
+# Função para criar grafo da maior componente de uma rede
+def criarGrafoDaMaiorComponente(vizinhos, maiorComponente):
+  novo_grafo = nx.Graph()
+  for no in maiorComponente:
+    lista_de_vizinhos_no = vizinhos[no]
+    for v in lista_de_vizinhos_no:
+      if (v in maiorComponente):
+        novo_grafo.add_edge(no, v)
+  
+  return novo_grafo
 
 def girvan_newman(G):
     # Crie uma cópia da rede para que não a modifiquemos diretamente
@@ -29,13 +68,14 @@ def girvan_newman(G):
     
     return communities
 
-# Exemplo de uso:
-# Crie um grafo de exemplo
 G = nx.karate_club_graph()
 
 # Encontre as comunidades usando Girvan-Newman
 detected_communities = girvan_newman(G)
 
-# Imprima as comunidades
-for i, community in enumerate(detected_communities):
-    print(f"Comunidade {i + 1}: {community}")
+np.random.seed(0)
+grafo_karate = nx.karate_club_graph()
+cores = []
+nx.draw(grafo_karate,with_labels=True)
+plt.show()
+
