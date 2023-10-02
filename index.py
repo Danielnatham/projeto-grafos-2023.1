@@ -64,7 +64,9 @@ def create_graph(data):
 
     for i in range(len(data)):
         grafo.append({
-            "id": data[i]["id"],
+            ## use the real id
+            # "id": data[i],
+            "id": i,
             "value": data[i]["value"],
             "neighbors": []
         })
@@ -92,6 +94,6 @@ for item in grafo:
     # Add edges to neighbors
     for neighbor in neighbors:
         G.add_edge(node_id, neighbor)
-
+print(G)
 nx.draw(G, with_labels=True, node_color="blue")
 plt.show()
