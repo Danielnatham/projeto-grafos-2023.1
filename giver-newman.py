@@ -6,9 +6,6 @@ import numpy as np
 import networkx as nx
 import pandas as pd
 
-
-import networkx as nx
-
 def calcular_centralidade_de_intermediacao_das_arestas(grafo):
     centralidade_intermediacao = nx.edge_betweenness_centrality(grafo)
     return centralidade_intermediacao
